@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate with ...INTERNSHIP;
 - 📫 How to reach me ...saifmohammadb1@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...Learing gives u Experince;
+- ⚡ Fun fact: ...Learing gives u ExperiEnce;
 
 <!---
 SAIFMOHAMMAD161/SAIFMOHAMMAD161 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
